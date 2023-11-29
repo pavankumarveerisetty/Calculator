@@ -1,0 +1,59 @@
+body{
+    background-color: #FBAB7E;
+    background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+    
+
+
+}
+.outlook{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.container{
+    margin-top: 0px;
+    width: 430px;
+    height: 580px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    background-color:#a0d2e8;
+    align-items: center;
+    justify-content: center;
+    
+}
+.inputbox{
+    height: 70px;
+    width:380px;
+    margin-left: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+    
+}
+.button{
+    height: 75px;
+    width: 75px;
+    margin: 10px;
+    font-size: 30px;
+    color:white;
+    background-color: black;
+    box-shadow: 2px 3px 15px black;
+    border-radius: 30%;
+}
+#isequalto{
+    width:172px;
+    background-color: black;
+    border-radius: 9px;
+}
+.titlecard{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 30px;
+    border: 2px solid black;
+
+}
